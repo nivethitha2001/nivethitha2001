@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nivethitha2001
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Backend and Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nivethithashanmuganathan5@gmail.com
